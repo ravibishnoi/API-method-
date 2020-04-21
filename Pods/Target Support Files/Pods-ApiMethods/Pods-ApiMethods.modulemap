@@ -1,0 +1,6 @@
+framework module Pods_ApiMethods {
+  umbrella header "Pods-ApiMethods-umbrella.h"
+
+  export *
+  module * { export * }
+}
